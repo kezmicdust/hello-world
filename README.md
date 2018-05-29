@@ -1,5 +1,5 @@
 # hello-world
-Thoughts and ideas about scripts and programs
+Thoughts and ideas about scripts and programs and coding practice
 
 This is Keith here. I'm very new to coding, but I'm getting better all the time. At the moment, I'm only writing in Python, but I may
 learn another language (like C++) eventually. My main focus is creating an eyetracking game for Stephy to see if we can improve her
